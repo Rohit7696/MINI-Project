@@ -1,0 +1,4 @@
+CalculatorImpl.class
+CalculatorServer.class
+CalculatorClient.class
+com\mycompany\corba_calculator\CORBA_Calculator.class
